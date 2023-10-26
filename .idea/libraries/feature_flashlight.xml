@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-flashlight">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/flashlight/intermediates/merged_java_res/debug/feature-flashlight.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

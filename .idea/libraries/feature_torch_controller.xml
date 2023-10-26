@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-torch_controller">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/torch_controller/intermediates/merged_java_res/debug/feature-torch_controller.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

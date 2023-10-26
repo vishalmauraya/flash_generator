@@ -1,0 +1,37 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.torch_controller" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="21" />
+7-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml:4:5-65
+9-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml:4:22-62
+10    <uses-permission android:name="android.permission.FLASHLIGHT" />
+10-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml:5:5-69
+10-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml:5:22-66
+11
+12    <uses-feature
+12-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml:7:5-9:36
+13        android:name="android.hardware.camera"
+13-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml:8:9-47
+14        android:required="false" />
+14-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml:9:9-33
+15    <uses-feature
+15-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml:10:5-12:36
+16        android:name="android.hardware.camera.autofocus"
+16-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml:11:9-57
+17        android:required="false" />
+17-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml:12:9-33
+18    <uses-feature
+18-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml:13:5-15:36
+19        android:name="android.hardware.camera.flash"
+19-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml:14:9-53
+20        android:required="false" />
+20-->C:\Users\maura\AppData\Local\Pub\Cache\hosted\pub.dev\torch_controller-2.0.1\android\src\main\AndroidManifest.xml:15:9-33
+21
+22</manifest>
